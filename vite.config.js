@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/modulo-3-evaluacion-final-radiofiambre/",
+  base: "/harry-potter-character-cards/",
   server: {
     watch: {
       usePolling: true,

@@ -1,4 +1,4 @@
-@import './variables.scss';
+@use './variables.scss' as *;
 
 .PageNotFound_container {
     padding-top: 120px;

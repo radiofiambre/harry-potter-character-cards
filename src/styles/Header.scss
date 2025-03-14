@@ -1,4 +1,4 @@
-@import './variables.scss';
+@use './variables.scss' as *;
 
 .Header_container {
     margin: 40px 0px;
