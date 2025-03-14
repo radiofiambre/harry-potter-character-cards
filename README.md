@@ -37,8 +37,8 @@ If the user refreshes the detail page or enters it manually, the details are loa
     * Props and liftings
     * Hooks
     * Router
-
 * Sass: For styling. Component-based structure with reset sheets and variables.
+* HTML
 
 ## Installation and Use
 ```
