@@ -1,0 +1,26 @@
+@import './variables.scss';
+
+.PageNotFound_container {
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    h2 {
+        color:$color-text-highlight;
+        font-size: 100px;
+        font-weight: bold;
+    }
+    h3 {
+        font-size: 60px;
+        color: $color-text-light;
+    }
+    a {
+        text-decoration: none;
+        background-color: $color-button;
+        color: white;
+        padding: 6px 14px;
+        border: 5px;
+        border-radius: 8px;
+    }
+}

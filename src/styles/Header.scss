@@ -1,0 +1,17 @@
+@import './variables.scss';
+
+.Header_container {
+    margin: 40px 0px;
+    text-align: center;
+    .Header_logo {
+        max-width: 400px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .Header_container {
+        .Header_logo {
+            max-width: 220px;
+        }
+    }
+}
